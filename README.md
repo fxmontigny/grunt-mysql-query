@@ -64,3 +64,6 @@ grunt.loadNpmTasks('grunt-mysql-query');
 
 grunt.registerTask('default', ['mysql_query:dev1']);
 ```
+
+# Used by
+[caravel.design](https://www.caravel.design) 
